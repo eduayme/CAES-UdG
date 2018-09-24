@@ -116,13 +116,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="115" />
+          <entry key="JAVA" value="155" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="115" />
+          <entry key="java" value="155" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -138,7 +138,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/udg/caes/ExercicesIntroTesting.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="257">
-              <caret line="80" column="38" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
+              <caret line="80" column="32" selection-start-line="80" selection-start-column="32" selection-end-line="80" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -173,8 +173,8 @@
         <option value="$PROJECT_DIR$/src/main/java/edu/udg/caes/Calculator.java" />
         <option value="$PROJECT_DIR$/src/test/java/edu/udg/caes/CalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/edu/udg/caes/HelloTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/edu/udg/caes/ExercicesIntroTestingTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/udg/caes/ExercicesIntroTesting.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/udg/caes/ExercicesIntroTestingTest.java" />
       </list>
     </option>
   </component>
@@ -263,7 +263,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537805674519" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537806701359" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
@@ -405,32 +405,11 @@
       <option name="presentableId" value="Default" />
       <updated>1536824624720</updated>
       <workItem from="1537803173291" duration="727000" />
-      <workItem from="1537803915964" duration="1691000" />
+      <workItem from="1537803915964" duration="2591000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="[engine_junit-jupiter]_[class_edu_udg_caes_ExercicesIntroTestingTest] - 2018.09.24 at 18h 08m 31s.xml">
-      <configuration name="[engine:junit-jupiter]/[class:edu.udg.caes.ExercicesIntroTestingTest]" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="[engine_junit-jupiter]_[class_edu_udg_caes_ExercicesIntroTestingTest] - 2018.09.24 at 18h 08m 45s.xml">
-      <configuration name="[engine:junit-jupiter]/[class:edu.udg.caes.ExercicesIntroTestingTest]" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="[engine_junit-jupiter]_[class_edu_udg_caes_ExercicesIntroTestingTest] - 2018.09.24 at 18h 10m 08s.xml">
-      <configuration name="[engine:junit-jupiter]/[class:edu.udg.caes.ExercicesIntroTestingTest]" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="[engine_junit-jupiter]_[class_edu_udg_caes_ExercicesIntroTestingTest] - 2018.09.24 at 18h 10m 36s.xml">
-      <configuration name="[engine:junit-jupiter]/[class:edu.udg.caes.ExercicesIntroTestingTest]" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="[engine_junit-jupiter]_[class_edu_udg_caes_ExercicesIntroTestingTest] - 2018.09.24 at 18h 11m 37s.xml">
-      <configuration name="[engine:junit-jupiter]/[class:edu.udg.caes.ExercicesIntroTestingTest]" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="[engine_junit-jupiter]_[class_edu_udg_caes_ExercicesIntroTestingTest] - 2018.09.24 at 18h 11m 48s.xml">
-      <configuration name="[engine:junit-jupiter]/[class:edu.udg.caes.ExercicesIntroTestingTest]" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="[engine_junit-jupiter]_[class_edu_udg_caes_ExercicesIntroTestingTest] - 2018.09.24 at 18h 13m 46s.xml">
-      <configuration name="[engine:junit-jupiter]/[class:edu.udg.caes.ExercicesIntroTestingTest]" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="[engine_junit-jupiter]_[class_edu_udg_caes_ExercicesIntroTestingTest] - 2018.09.24 at 18h 13m 57s.xml">
       <configuration name="[engine:junit-jupiter]/[class:edu.udg.caes.ExercicesIntroTestingTest]" configurationId="JUnit" />
     </history-entry>
@@ -440,9 +419,30 @@
     <history-entry file="[engine_junit-jupiter]_[class_edu_udg_caes_ExercicesIntroTestingTest] - 2018.09.24 at 18h 14m 28s.xml">
       <configuration name="[engine:junit-jupiter]/[class:edu.udg.caes.ExercicesIntroTestingTest]" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="[engine_junit-jupiter]_[class_edu_udg_caes_ExercicesIntroTestingTest] - 2018.09.24 at 18h 20m 27s.xml">
+      <configuration name="[engine:junit-jupiter]/[class:edu.udg.caes.ExercicesIntroTestingTest]" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="[engine_junit-jupiter]_[class_edu_udg_caes_ExercicesIntroTestingTest] - 2018.09.24 at 18h 22m 37s.xml">
+      <configuration name="[engine:junit-jupiter]/[class:edu.udg.caes.ExercicesIntroTestingTest]" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="[engine_junit-jupiter]_[class_edu_udg_caes_ExercicesIntroTestingTest] - 2018.09.24 at 18h 27m 06s.xml">
+      <configuration name="[engine:junit-jupiter]/[class:edu.udg.caes.ExercicesIntroTestingTest]" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="[engine_junit-jupiter]_[class_edu_udg_caes_ExercicesIntroTestingTest] - 2018.09.24 at 18h 28m 23s.xml">
+      <configuration name="[engine:junit-jupiter]/[class:edu.udg.caes.ExercicesIntroTestingTest]" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="[engine_junit-jupiter]_[class_edu_udg_caes_ExercicesIntroTestingTest] - 2018.09.24 at 18h 30m 59s.xml">
+      <configuration name="[engine:junit-jupiter]/[class:edu.udg.caes.ExercicesIntroTestingTest]" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="[engine_junit-jupiter]_[class_edu_udg_caes_ExercicesIntroTestingTest] - 2018.09.24 at 18h 31m 19s.xml">
+      <configuration name="[engine:junit-jupiter]/[class:edu.udg.caes.ExercicesIntroTestingTest]" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="[engine_junit-jupiter]_[class_edu_udg_caes_ExercicesIntroTestingTest] - 2018.09.24 at 18h 31m 38s.xml">
+      <configuration name="[engine:junit-jupiter]/[class:edu.udg.caes.ExercicesIntroTestingTest]" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2418000" />
+    <option name="totallyTimeSpent" value="3318000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -557,7 +557,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/udg/caes/ExercicesIntroTesting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="257">
-          <caret line="80" column="38" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
+          <caret line="80" column="32" selection-start-line="80" selection-start-column="32" selection-end-line="80" selection-end-column="32" />
         </state>
       </provider>
     </entry>
