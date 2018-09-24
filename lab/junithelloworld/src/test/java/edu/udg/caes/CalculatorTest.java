@@ -49,4 +49,9 @@ public class CalculatorTest {
         final long result = new Calculator().multiply(3, -3);
         assertEquals(result, -9L);
     }
+    @Test
+    public void tenDividedTwoIsFive() throws Exception {
+        final long result = new Calculator().divide(10, 2);
+        assertEquals(result, 5L, "error in tenDividedTwoIsFive()" );
+    }
 }
